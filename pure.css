@@ -271,6 +271,7 @@ a.pure-button-primary {
 /* This is the class used for the footer */
 .footer {
     background: rgb(37, 25, 17);
+    color: #f1f0ee;
     position: fixed;
     bottom: 0;
     width: 100%;
